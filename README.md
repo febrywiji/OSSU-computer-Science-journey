@@ -1,2 +1,2 @@
 # OSSU-computer-Science-journey
-Seluruh dokumentasi pembelajaran program studi Ilmu Komputer selama di Open Source Society University
+All documentation of learning for the Computer Science study program while at Open Source Society University
